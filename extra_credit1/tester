@@ -1,0 +1,14 @@
+#!/bin/bash
+
+main < tests/t01.in > results01.out
+main < tests/t02.in > results02.out
+main < tests/t03.in > results03.out
+main < tests/t04.in > results04.out
+main < tests/t05.in > results05.out
+main < tests/t06.in > results06.out
+main < tests/t07.in > results07.out
+main < tests/t08.in > results08.out
+main < tests/t09.in > results09.out
+main < tests/t10.in > results10.out
+main < tests/t11.in > results11.out
+

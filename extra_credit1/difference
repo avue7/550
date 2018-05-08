@@ -1,0 +1,13 @@
+#!/bin/bash
+
+diff results01.out tests/t01.out
+diff results02.out tests/t02.out
+diff results03.out tests/t03.out
+diff results04.out tests/t04.out
+diff results05.out tests/t05.out
+diff results06.out tests/t06.out
+diff results07.out tests/t07.out
+diff results08.out tests/t08.out
+diff results09.out tests/t09.out
+diff results10.out tests/t10.out
+diff results11.out tests/t11.out
